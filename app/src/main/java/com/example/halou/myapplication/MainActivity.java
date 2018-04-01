@@ -6,7 +6,6 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
     //我是
     //你还好吗
-    //123
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
